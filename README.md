@@ -29,7 +29,3 @@ This repository contains my solutions to the **Advanced SQL Test** I completed o
 
 * [GitHub Profile](https://github.com/yourusername)
 * [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-Would you like me to also add **sample query snippets** (like short code previews) inside the README so recruiters/visitors can instantly see your SQL style without opening the `.sql` files?
