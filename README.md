@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the **Advanced SQL Test** I completed on the **HackerRank** platform. The test included two challenging questions that tested complex SQL querying skills, focusing on data analysis, pattern recognition, and advanced query optimization.
 
-## 📌 Questions I Solved
+## 📌 Questions I Solved 
 
 1. **Weather Analysis Solution**
 
