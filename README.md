@@ -24,8 +24,3 @@ This repository contains my solutions to the **Advanced SQL Test** I completed o
 * Nested Subqueries
 * Conditional Filtering & Aggregation
 * Time-Series and Trend Analysis
-
-## 🔗 Connect with Me
-
-* [GitHub Profile](https://github.com/yourusername)
-* [LinkedIn](https://linkedin.com/in/yourprofile)
