@@ -1,6 +1,11 @@
-# SQL Solutions – HackerRank Test
+<p align="center">
+  <a href="https://www.hackerrank.com/Ashwin7mak">
+    <img alt="HackerRank" src="https://raw.githubusercontent.com/Ashwin7mak/HackerRank/master/hacker-rank-logo.png">
+  </a>
+</p>
 
-This repository contains my solutions to the **Advanced SQL Test** I completed on the **HackerRank** platform. The test included two challenging questions that tested complex SQL querying skills, focusing on data analysis, pattern recognition, and advanced query optimization.
+
+# SQL Solutions – HackerRank Test
 
 ## 📌 Questions I Solved 
 
